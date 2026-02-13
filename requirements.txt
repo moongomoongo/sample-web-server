@@ -1,0 +1,2 @@
+# No external dependencies required for this project
+# It uses only Python's built-in http.server module
